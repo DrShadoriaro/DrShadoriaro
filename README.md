@@ -53,3 +53,13 @@ Planned additions include a verified publications catalog, research project docu
 ## Research repositories
 
 - [Research Publications and Scholarly Contributions](https://github.com/DrShadoriaro/Research-Publications) — conference research, academic recognition, and developing bibliography.
+
+- [Explainable AI Cybersecurity](https://github.com/DrShadoriaro/Explainable-AI-Cybersecurity) — proposed research direction and development roadmap.
+- [AI Governance Risk Management](https://github.com/DrShadoriaro/AI-Governance-Risk-Management) — proposed research direction and development roadmap.
+- [Human AI Comprehension](https://github.com/DrShadoriaro/Human-AI-Comprehension) — proposed research direction and development roadmap.
+- [AI Critical Infrastructure Security](https://github.com/DrShadoriaro/AI-Critical-Infrastructure-Security) — proposed research direction and development roadmap.
+- [Current Research Projects](https://github.com/DrShadoriaro/Current-Research-Projects) — proposed research direction and development roadmap.
+
+## Academic website
+
+[Website source repository](https://github.com/DrShadoriaro/drshadoriaro.github.io). Public website deployment is pending confirmation.
