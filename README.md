@@ -49,3 +49,7 @@ I welcome academic and industry collaboration in explainable AI, cybersecurity, 
 ## Portfolio development
 
 Planned additions include a verified publications catalog, research project documentation, reproducible experiments, and an academic website. Unpublished work and third-party materials will be shared only where appropriate permissions exist.
+
+## Research repositories
+
+- [Research Publications and Scholarly Contributions](https://github.com/DrShadoriaro/Research-Publications) — conference research, academic recognition, and developing bibliography.
